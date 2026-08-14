@@ -23,7 +23,6 @@ reconnaissance, exploitation, and findings.
 **Skills demonstrated:** Nmap, vulnerability scanning, SSL/TLS configuration, 
 report writing, risk assessment
 
----
 
 ## 💻 Software Development
 
@@ -34,7 +33,6 @@ full CRUD operations (add, update, delete, search) against a relational database
 
 **Skills demonstrated:** Python, SQLite, database design, CRUD operations
 
----
 
 ## About
 These projects were completed as part of a structured Cyber Security bootcamp 
@@ -44,4 +42,4 @@ any sensitive target information.
 Darian Assur
 0714852461
 darianassur2@gmail.com
-[Your LinkedIn / email]
+www.linkedin.com/in/darian-assur-323157242
